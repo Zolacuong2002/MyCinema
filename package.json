@@ -2,7 +2,7 @@
   "name": "movie",
   "version": "1.0.0",
   "main": "main.js",
-  "homepage": "http://Zolacuong2002.guthub.io/galaxy-cinema",
+  "homepage": "http://Zolacuong2002.guthub.io",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
