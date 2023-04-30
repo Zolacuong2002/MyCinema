@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MyCinema/static/css/main.d5bb6e49.css",
+    "main.js": "/MyCinema/static/js/main.f4d2dc9f.js",
+    "static/js/787.e253fc0a.chunk.js": "/MyCinema/static/js/787.e253fc0a.chunk.js",
+    "static/media/logo.png": "/MyCinema/static/media/logo.db952643acbbd126409d.png",
+    "index.html": "/MyCinema/index.html",
+    "main.d5bb6e49.css.map": "/MyCinema/static/css/main.d5bb6e49.css.map",
+    "main.f4d2dc9f.js.map": "/MyCinema/static/js/main.f4d2dc9f.js.map",
+    "787.e253fc0a.chunk.js.map": "/MyCinema/static/js/787.e253fc0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5bb6e49.css",
+    "static/js/main.f4d2dc9f.js"
+  ]
+}
